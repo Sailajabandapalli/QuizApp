@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="correct_toast">You got it!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="initial_score">Score 0/13</string>
+    <string name="question_2">A function can not be defined inside another function.</string>
+    <string name="question_3">Functions can not return more than one value at a time </string>
+    <string name="question_4">Functions can be called either by value or reference.</string>
+    <string name="question_5">If return type for a function is not specified it defaults to int.</string>
+    <string name="question_6">A function may have any number of return statements each returning different values.</string>
+    <string name="question_7">Maximum number of arguments that a function can take is 12.</string>
+    <string name="question_8">Usually recursion works slower than loops.</string>
+    <string name="question_9">Are the expression *ptr++ and ++*ptr are same</string>
+    <string name="question_10">Modulus operator cannot be used with a long double.</string>
+    <string name="question_11">A short integer is atleast 16 bits wide and a long integer is atleast 32 bits wide.</string>
+    <string name="question_12">A char variable can store either an ASCII character or a Unicode character.</string>
+    <string name="question_13">A union cannot be nested in a structure.</string>
+    <string name="question_1">It is not possible to create an array of pointer to structures.</string>
+
+</resources>
+
